@@ -3,7 +3,7 @@
 
 ---
 
-Phase 1: Foundations (Month 1–2)
+Phase 1: Foundations
 
 📌 Goal: Build solid programming + math + data handling basics
 
@@ -40,7 +40,7 @@ Analyze CSV dataset (sales or weather data)
 
 ---
 
-Phase 2: Data Analysis & Visualization (Month 3)
+Phase 2: Data Analysis & Visualization
 
 📌 Goal: Learn to clean, analyze, and visualize datasets
 
@@ -72,7 +72,7 @@ SQL case study: analyze customer orders in an e-commerce database
 
 ---
 
-Phase 3: Core Machine Learning (Month 4–5)
+Phase 3: Core Machine Learning 
 
 📌 Goal: Understand ML theory + apply algorithms to real data
 
@@ -108,7 +108,7 @@ Customer segmentation (Clustering)
 
 ---
 
-Phase 4: Advanced Machine Learning & Deep Learning (Month 6–7)
+Phase 4: Advanced Machine Learning & Deep Learning 
 
 📌 Goal: Dive into neural networks & specialized ML fields
 
@@ -144,7 +144,7 @@ Stock price prediction (time series)
 
 ---
 
-Phase 5: Data Engineering & Big Data (Month 8)
+Phase 5: Data Engineering & Big Data
 
 📌 Goal: Handle real-world large datasets & pipelines
 
@@ -174,7 +174,7 @@ Build a Spark pipeline to process millions of rows & generate reports
 
 ---
 
-Phase 6: Deployment & MLOps (Month 9)
+Phase 6: Deployment & MLOps 
 
 📌 Goal: Put ML models into production
 
